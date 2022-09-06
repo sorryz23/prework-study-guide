@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-This Prework Study Guide, can be used for the purpose to review notes about the four topics we learned, HTML, CSS, JavaScript, and Git. If we open DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first. 
+This Study Guide, was created for the purpose to review notes about the four topics we learned, HTML, CSS, JavaScript, and Git. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Options+I (MacOS) or Control+Shift+I (windows). A console panel should open ethier below or to the side of the webpage browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 
 ## Credits
@@ -23,4 +23,3 @@ This Prework Study Guide, can be used for the purpose to review notes about the 
 
 Please refer to the LICENSE in the repo.
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
